@@ -1,2 +1,2 @@
 # Practice Python
-Solutions of the problems on www.practicepython.org
+Solutions to the problems on www.practicepython.org
